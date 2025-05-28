@@ -29,9 +29,10 @@ Simulation results are visualized via waveform plots to confirm expected behavio
 3. Run the simulation and inspect the waveform to verify correct functionality.
 
 Example with Icarus Verilog:
-```bash
+
 iverilog -o dff d_flipflop.v d_testbench.v
 vvp dff
+
 
 ## 🏷️ Tags
 verilog hdl digital-design sequential-logic flipflop simulation behavioral-modeling
