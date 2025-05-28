@@ -33,16 +33,11 @@ Example with Icarus Verilog:
 iverilog -o dff d_flipflop.v d_testbench.v
 vvp dff
 
-🏷️ Tags
+## 🏷️ Tags
 verilog hdl digital-design sequential-logic flipflop simulation behavioral-modeling
 
-License
+## License
 This repository is intended for academic and educational use only.
-
-yaml
-Copy
-Edit
-
 ---
 
 Let me know if you'd like me to generate `.gitignore`, waveform screenshots, or add instructions for a specific simulator like ModelSim or Vivado.
